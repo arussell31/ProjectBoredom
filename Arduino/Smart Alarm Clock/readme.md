@@ -23,7 +23,7 @@
 * The Smart alarm technology is built with an Arduino, an MPU-9150 Inertial Measurement Unit, a bluetooth chip, and an app on a smart phone.
 * You, the inventor, will build the app and the smart band using your Arduino kit, your phone and some supplies around your home.
   
-* ADD IMAGE OF OVERALL FLOW
+* ![Flow](swimlanes-7284b82f57578a1197381d0e0ff71052.png)
 
 ### Supplies
 
